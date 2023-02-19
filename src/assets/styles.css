@@ -1,0 +1,13 @@
+.messages {
+    display: flex;
+    flex-direction: column;
+    /* overflow-y: scroll; */
+    scrollbar-width: none;
+  }
+
+  .chat__background{
+    background-image: url('single_chat_back.jpg') !important;
+    background-repeat: no-repeat !important;
+    background-size: cover;
+    
+  }
